@@ -1,0 +1,7 @@
+export { default as HeroSection } from './HeroSection.tsx'
+export { default as AboutSection } from './AboutSection.tsx'
+export { default as ExperienceSection } from './ExperienceSection.tsx'
+export { default as ProjectsSection } from './ProjectsSection.tsx'
+export { default as EducationSection } from './EducationSection.tsx'
+export { default as CertificationsSection } from './CertificationsSection.tsx'
+export { default as ContactSection } from './ContactSection.tsx'
